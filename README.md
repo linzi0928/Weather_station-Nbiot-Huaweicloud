@@ -1,6 +1,6 @@
 # Weather_station-Nbiot-Huaweicloud
 # GIE个人气象站
-![Photo](https://github.com/linzi0928/Weather_station-Nbiot-Huaweicloud/blob/master/%E6%88%90%E5%93%81%E7%85%A7%E7%89%87.jpg)
+![Photo](https://github.com/linzi0928/Weather_station-Nbiot-Huaweicloud/blob/master/%E6%88%90%E5%93%81%E7%85%A7%E7%89%87.jpg)  
 硬件结构：  
 STM32L051低功耗单片机  
 BME680气体传感器测量温度、湿度、气压、烟阻  
